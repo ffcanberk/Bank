@@ -7,7 +7,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-pip install streamlit
+pip install matplotlib
 
 import streamlit as st
 
