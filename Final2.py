@@ -56,7 +56,7 @@ if st.session_state.page == 'page1':
     session.mount('https://', adapter)
 
     # OpenAI API anahtarı
-    api_key = "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"  # Güvenlik nedeniyle API anahtarınızı burada paylaşmayın
+    
 
     # PDF dosyasından metin çıkartan fonksiyon (sayfa sayfa, pdfplumber ile)
     def extract_text_from_pdf(pdf):
